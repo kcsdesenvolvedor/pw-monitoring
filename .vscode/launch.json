@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://localhost:3000/oid/?initial=initial&contexName=GWNCS&authKey=12345678901234567890123456789012&privKey=12345678901234567890123456789012&oid=1.3.6.1.2.1.1.1.0&ipAddress=203.159.254.178",
+            "request": "launch",
+            "url": "http://localhost:3000/oid/?initial=initial&contexName=GWNCS&authKey=12345678901234567890123456789012&privKey=12345678901234567890123456789012&oid=1.3.6.1.2.1.1.1.0&ipAddress=203.159.254.178"
+        }
+    ]
+}
